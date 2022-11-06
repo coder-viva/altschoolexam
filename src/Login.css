@@ -1,0 +1,31 @@
+
+.Login{
+  display: grid;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin:0 auto;
+  justify-content: center;
+  border-collapse: collapse;
+  max-width: 30%;
+  height: 70%;
+  
+  }
+  form{
+    background-color: rgb(177, 177, 194);
+  }
+  button{
+      border-radius: 5px;
+      margin:0 auto;
+  justify-content: center;
+   text-decoration-color: #000; color: #000;
+   border: 5px solid black; 
+  }
+  .form-group{
+      margin-top: 5%;
+      margin: 10%;
+  }
+  input{
+    border-radius: 10px;
+    border: 5px solid black;
+  }
+ 
